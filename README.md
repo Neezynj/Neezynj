@@ -46,8 +46,7 @@
 ## 📂 Projets Phares
 *Voici quelques-uns de mes travaux réalisés en BUT ou en autonomie :*
 
-- **[Nom de ta SAE 1]** : Analyse de [Sujet] avec R. (Lien vers le dépôt)
-- **[Nom de ta SAE 2]** : Modélisation prédictive sous Python. (Lien vers le dépôt)
+- **[France EV Mobility 2040](https://github.com/Neezynj/ev-2040)** : Dashboard R Shiny de modélisation prédictive (modèle de Verhulst) et analyse spatiale du parc électrique français et de son réseau de bornes.
 - **[EasyMapWebsite](https://github.com/Neezynj/EasyMapWebsite)** : Visualisation cartographique interactive.
 
 ---
