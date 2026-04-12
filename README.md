@@ -46,8 +46,9 @@
 ## 📂 Projets Phares
 *Voici quelques-uns de mes travaux réalisés en BUT ou en autonomie :*
 
-- **[France EV Mobility 2040](https://github.com/Neezynj/ev-2040)** : Dashboard R Shiny de modélisation prédictive (modèle de Verhulst) et analyse spatiale du parc électrique français et de son réseau de bornes.
-- **[EasyMapWebsite](https://github.com/Neezynj/EasyMapWebsite)** : Visualisation cartographique interactive.
+- **[Sentiment Analysis & RAG Assistant](https://github.com/Neezynj/sentiment-analysis-rag-butsd)** : Pipeline NLP complet incluant du scraping, une étude comparative de classification (BERT vs Lexique FEEL) et un assistant intelligent (RAG) avec recherche hybride (FAISS/BM25) sur le référentiel BUT SD. 🤖
+- **[France EV Mobility 2040](https://github.com/Neezynj/ev-2040)** : Dashboard R Shiny de modélisation prédictive (modèle de Verhulst) et analyse spatiale du parc électrique français et de son réseau de bornes. 🚗
+- **[EasyMapWebsite](https://github.com/Neezynj/EasyMapWebsite)** : Visualisation cartographique interactive. 🗺️
 
 ---
 
