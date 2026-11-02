@@ -1,12 +1,12 @@
 # Salut, moi c'est Nils 👋
 
-### Étudiant en BUT 3 Science des Données (Parcours EMS) 📊
+### Élève-ingénieur en Big Data & Machine Learning (EFREI Paris) 📊
 *Spécialisé dans l'analyse statistique, la modélisation et la valorisation des données.*
 
 ---
 
 ## 🚀 À propos de moi
-- 🏫 Actuellement en 3ème année de **BUT SD** à l'IUT de Carcassonne - UPVD.
+- 🏫 Actuellement en formation d'ingénieur **Big Data & Machine Learning** à l'**EFREI Paris** (diplômé d'un **BUT SD** à l'IUT de Carcassonne - UPVD).
 - 🎯 Je me passionne pour la transformation de données brutes en décisions stratégiques.
 - 📉 Mon parcours **EMS** m'a permis de me spécialiser dans l'analyse de données et la statistique.
 - 💼 **Apprenti Data Engineer chez BNP Paribas** depuis septembre 2025.
@@ -56,4 +56,3 @@
 ## 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nils-joly)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nils.joly75@gmail.com)
-
